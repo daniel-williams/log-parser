@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-16 00:02:53
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-16 00:02:53 10.224.160.139 GET /video/16143_Edge_Prototype_Marcus_060816_v3_with_pushes.mp4 - 80 - 10.124.198.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 156
+2016-07-16 00:02:53 10.224.160.139 GET /video/1606_Tab_Center_FAST_compilation_v4.mp4 - 80 - 10.124.198.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 218
+2016-07-16 00:02:53 10.224.160.139 GET /video/1606_Tab_Center_FAST_compilation_v4.mp4 - 80 - 10.124.198.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 109
+2016-07-16 00:02:53 10.224.160.139 GET /video/1606_Tab_Center_FAST_compilation_v4.mp4 - 80 - 10.124.198.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 250
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-16 00:36:25
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-16 00:36:25 10.224.160.139 GET /video/edgeFlowShowcaseVideo.mp4 - 80 - 10.124.198.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 2011363
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-07-16 02:23:12
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-07-16 02:23:12 10.224.160.139 GET /video/edgeFlowShowcaseVideo.mp4 - 80 - 172.19.25.55 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14389 http://studiosaga/ 206 0 995 18609

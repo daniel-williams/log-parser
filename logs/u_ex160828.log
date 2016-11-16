@@ -1,0 +1,147 @@
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 06:14:37
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 06:14:37 10.224.160.139 GET /partials/promises/promise02.html - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 937
+2016-08-28 06:14:38 10.224.160.139 GET /partials/promises/promise02-story.html - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1093
+2016-08-28 06:14:40 10.224.160.139 GET /images/02-edgeflow/WEB-pic_OppTabsV02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1234
+2016-08-28 06:14:40 10.224.160.139 GET /images/02-edgeflow/WEB-pic_OppBrowsingV02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1265
+2016-08-28 06:14:40 10.224.160.139 GET /video/16143_Edge_Prototype_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 2468
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/edgeflow.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 4000
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/WEB-pic_OppWinIntV01.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/WEB-pic_anxiety02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 3281
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/WEB-pic_ProtoTabsV02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 375
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/WEB-pic_ProtoBrowsingV02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:14:41 10.224.160.139 GET /images/02-edgeflow/WEB-pic_disorganized02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 3625
+2016-08-28 06:14:42 10.224.160.139 GET /images/02-edgeflow/WEB-pic_ProtoWinIntV01.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:14:42 10.224.160.139 GET /images/02-edgeflow/WEB-pic_wastingtime02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 3906
+2016-08-28 06:14:42 10.224.160.139 GET /images/edge-blk.svg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:14:42 10.224.160.139 GET /video/1606_Tab_Center_Fast_Compilation_v4_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 5156
+2016-08-28 06:14:42 10.224.160.139 GET /video/1606_Tab_Center_Fast_Compilation_v4_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 3281
+2016-08-28 06:14:42 10.224.160.139 GET /video/1606_Tab_Center_Fast_Compilation_v4_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 359
+2016-08-28 06:14:44 10.224.160.139 GET /images/02-edgeflow/stock-title.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 1328
+2016-08-28 06:14:44 10.224.160.139 GET /images/02-edgeflow/WEB-pic_research02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 5453
+2016-08-28 06:14:47 10.224.160.139 GET /video/edgeflow/EdgeFlow_v3_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 9796
+2016-08-28 06:14:47 10.224.160.139 GET /images/02-edgeflow/pic_quotesV02.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 9359
+2016-08-28 06:14:50 10.224.160.139 GET /images/02-edgeflow/WEB-pic_newoppV02.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 7562
+2016-08-28 06:14:55 10.224.160.139 GET /video/EdgeFlow_Subtitled_10000k.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 17781
+2016-08-28 06:14:58 10.224.160.139 GET /video/EdgeFlow_Subtitled_10000k.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 18359
+2016-08-28 06:29:48 10.224.160.139 GET /video/EdgeFlow_Subtitled_10000k.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 0 889799
+2016-08-28 06:29:51 10.224.160.139 GET /partials/promises/promise03.html - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 375
+2016-08-28 06:29:51 10.224.160.139 GET /partials/promises/promise03-story.html - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 359
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/carousel.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 593
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/hover.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 593
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/video.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 593
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/static-orig.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 609
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/static-msg.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 296
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/static-grad.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/scrolling-vid.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/parallax.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 06:29:53 10.224.160.139 GET /images/fre/static-illustrated.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 593
+2016-08-28 06:29:54 10.224.160.139 GET /images/fre/current.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1843
+2016-08-28 06:29:54 10.224.160.139 GET /video/switch/16190_Edge_FRE_Final_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 2015
+2016-08-28 06:29:54 10.224.160.139 GET /images/03-switch/switch-win10dev.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2109
+2016-08-28 06:29:54 10.224.160.139 GET /video/switch/16190_Edge_FRE_Final_SUBTITLED.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 2406
+2016-08-28 06:29:54 10.224.160.139 GET /images/03-switch/switch-reading01.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2499
+2016-08-28 06:29:54 10.224.160.139 GET /images/03-switch/switch-shopping01.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2718
+2016-08-28 06:29:54 10.224.160.139 GET /video/MGX_msEdge_rs1_final_withsubs.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 2906
+2016-08-28 06:29:56 10.224.160.139 GET /images/fre/engagement.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2484
+2016-08-28 06:29:56 10.224.160.139 GET /images/03-switch/switch.jpg - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 4312
+2016-08-28 06:29:58 10.224.160.139 GET /images/olc.png - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 23203
+2016-08-28 06:29:59 10.224.160.139 GET /video/Edge_Final_H264.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 7593
+2016-08-28 06:31:16 10.224.160.139 GET /video/Edge_OLC_Short_Exec_Final_FullScreen_low.mp4 - 80 - 172.19.174.144 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 328
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 14:56:15
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 14:56:15 10.224.160.139 GET /favicon.ico - 80 - 172.19.172.17 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 296
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 16:52:09
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 16:52:09 10.224.160.139 GET / - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 - 200 0 0 15
+2016-08-28 16:52:09 10.224.160.139 GET /css/responsive.css - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 31
+2016-08-28 16:52:09 10.224.160.139 GET /css/lightbox.min.css - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 67
+2016-08-28 16:52:09 10.224.160.139 GET /css/font-awesome.min.css - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 124
+2016-08-28 16:52:09 10.224.160.139 GET /css/style.css - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 93
+2016-08-28 16:52:09 10.224.160.139 GET /css/animate.css - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 109
+2016-08-28 16:52:09 10.224.160.139 GET /js/main.js - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 156
+2016-08-28 16:52:09 10.224.160.139 GET /js/ng-map.min.js - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 156
+2016-08-28 16:52:09 10.224.160.139 GET /js/lightbox.min.js - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 198
+2016-08-28 16:52:09 10.224.160.139 GET /js/isotope.pkgd.min.js - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 245
+2016-08-28 16:52:09 10.224.160.139 GET /images/loading.gif - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 31
+2016-08-28 16:52:09 10.224.160.139 GET /images/close.png - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 46
+2016-08-28 16:52:09 10.224.160.139 GET /images/prev.png - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 46
+2016-08-28 16:52:09 10.224.160.139 GET /images/next.png - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 46
+2016-08-28 16:52:09 10.224.160.139 GET /css/fonts/FreigTexProBook.otf - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 124
+2016-08-28 16:52:09 10.224.160.139 GET /js/jquery.min.js - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 468
+2016-08-28 16:52:09 10.224.160.139 GET /favicon.ico - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 - 200 0 0 15
+2016-08-28 16:52:09 10.224.160.139 GET /templates/footer.html - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 46
+2016-08-28 16:52:09 10.224.160.139 GET /partials/process.html - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 62
+2016-08-28 16:52:09 10.224.160.139 GET /templates/header.html - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 62
+2016-08-28 16:52:09 10.224.160.139 GET /images/saga-red.svg - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 46
+2016-08-28 16:52:09 10.224.160.139 GET /images/newFlag.svg - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 31
+2016-08-28 16:52:09 10.224.160.139 GET /css/fonts/NeueHaasGrotDisp-65Medium.otf - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 140
+2016-08-28 16:52:09 10.224.160.139 GET /images/process/saga-DRIs.jpg - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 171
+2016-08-28 16:52:10 10.224.160.139 GET /images/process/processBG.jpg - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 203
+2016-08-28 16:52:10 10.224.160.139 GET /images/process/saga-product-dev-phases-03.png - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 531
+2016-08-28 16:52:12 10.224.160.139 GET /images/process/SAGA_iterationCycle_color.png - 80 - 172.19.27.219 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/51.0.2704.79+Safari/537.36+Edge/14.14393 http://studiosaga/ 200 0 0 2156
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 18:19:02
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 18:19:02 10.224.160.139 GET / - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 0 0 328
+2016-08-28 18:19:02 10.224.160.139 GET /css/lightbox.min.css - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 18:19:02 10.224.160.139 GET /css/responsive.css - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 390
+2016-08-28 18:19:02 10.224.160.139 GET /css/animate.css - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 718
+2016-08-28 18:19:04 10.224.160.139 GET /css/font-awesome.min.css - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1078
+2016-08-28 18:19:04 10.224.160.139 GET /js/lightbox.min.js - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 749
+2016-08-28 18:19:04 10.224.160.139 GET /js/isotope.pkgd.min.js - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 984
+2016-08-28 18:19:04 10.224.160.139 GET /js/main.js - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 609
+2016-08-28 18:19:04 10.224.160.139 GET /js/ng-map.min.js - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 906
+2016-08-28 18:19:04 10.224.160.139 GET /css/style.css - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 921
+2016-08-28 18:19:04 10.224.160.139 GET /js/jquery.min.js - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1625
+2016-08-28 18:19:04 10.224.160.139 GET /images/prev.png - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/lightbox.min.css 200 0 0 281
+2016-08-28 18:19:04 10.224.160.139 GET /images/next.png - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/lightbox.min.css 200 0 0 296
+2016-08-28 18:19:05 10.224.160.139 GET /images/loading.gif - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/lightbox.min.css 200 0 0 359
+2016-08-28 18:19:05 10.224.160.139 GET /images/close.png - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/lightbox.min.css 200 0 0 374
+2016-08-28 18:19:06 10.224.160.139 GET /templates/header.html - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 18:19:06 10.224.160.139 GET /partials/home.html - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 312
+2016-08-28 18:19:06 10.224.160.139 GET /templates/footer.html - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 343
+2016-08-28 18:19:06 10.224.160.139 GET /css/fonts/FreigTexProBook.otf - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 875
+2016-08-28 18:19:06 10.224.160.139 GET /images/saga-red.svg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 359
+2016-08-28 18:19:06 10.224.160.139 GET /images/newFlag.svg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 359
+2016-08-28 18:19:07 10.224.160.139 GET /images/promises/store.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 953
+2016-08-28 18:19:07 10.224.160.139 GET /css/fonts/NeueHaasGrotDisp-75Bold.otf - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 937
+2016-08-28 18:19:08 10.224.160.139 GET /images/promises/3d.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1531
+2016-08-28 18:19:08 10.224.160.139 GET /images/promises/flow.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2609
+2016-08-28 18:19:08 10.224.160.139 GET /css/fonts/NeueHaasGrotDisp-65Medium.otf - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/css/style.css 200 0 0 2656
+2016-08-28 18:19:08 10.224.160.139 GET /images/promises/win10.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 1781
+2016-08-28 18:19:08 10.224.160.139 GET /images/promises/switch.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 3359
+2016-08-28 18:19:11 10.224.160.139 GET /images/promises/search.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 4718
+2016-08-28 18:19:11 10.224.160.139 GET /images/promises/community.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 2421
+2016-08-28 18:19:12 10.224.160.139 GET /images/promises/schools.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 5796
+2016-08-28 18:19:13 10.224.160.139 GET /video/Edge_OLC_Short_Exec_Final_FullScreen_low.mp4 - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 206 0 995 7046
+2016-08-28 18:19:13 10.224.160.139 GET /images/promises/reading.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 8140
+2016-08-28 18:19:14 10.224.160.139 GET /images/promises/shopping.jpg - 80 - 172.19.172.238 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://studiosaga/ 200 0 0 8546
+#Software: Microsoft Internet Information Services 8.5
+#Version: 1.0
+#Date: 2016-08-28 22:11:46
+#Fields: date time s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs(User-Agent) cs(Referer) sc-status sc-substatus sc-win32-status time-taken
+2016-08-28 22:11:46 10.224.160.139 GET / - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://wexweb/videos/category/6 200 0 0 0
+2016-08-28 22:11:46 10.224.160.139 GET /css/font-awesome.min.css - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /css/responsive.css - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 15
+2016-08-28 22:11:46 10.224.160.139 GET /css/lightbox.min.css - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /css/animate.css - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /css/style.css - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /js/isotope.pkgd.min.js - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 93
+2016-08-28 22:11:46 10.224.160.139 GET /js/lightbox.min.js - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 93
+2016-08-28 22:11:46 10.224.160.139 GET /js/ng-map.min.js - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 109
+2016-08-28 22:11:46 10.224.160.139 GET /js/main.js - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 124
+2016-08-28 22:11:46 10.224.160.139 GET /css/fonts/FreigTexProBook.otf - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 46
+2016-08-28 22:11:46 10.224.160.139 GET /js/jquery.min.js - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 281
+2016-08-28 22:11:46 10.224.160.139 GET /images/close.png - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 0
+2016-08-28 22:11:46 10.224.160.139 GET /images/loading.gif - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 15
+2016-08-28 22:11:46 10.224.160.139 GET /images/prev.png - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /images/next.png - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+WOW64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) http://studiosaga/ 200 0 0 31
+2016-08-28 22:11:46 10.224.160.139 GET /favicon.ico - 80 - 10.124.151.70 Mozilla/4.0+(compatible;+MSIE+7.0;+Windows+NT+10.0;+Win64;+x64;+Trident/7.0;+.NET4.0C;+.NET4.0E;+.NET+CLR+2.0.50727;+.NET+CLR+3.0.30729;+.NET+CLR+3.5.30729) - 200 0 0 15
