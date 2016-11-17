@@ -8,6 +8,7 @@ var index = -1;
 var requests = [];
 var distinctUrls = [];
 
+var sessionSpan = (1000 * 60 * 30); // 30 minutes
 
 getTargetFile();
 
@@ -16,7 +17,62 @@ function getTargetFile() {
   if(index === count) {
     console.log('finished processing ' + count + ' log files.');
     console.log('telemetry hits: ', requests.length);
-    fs.writeFile(__dirname + '/telemetry-hits.json', JSON.stringify(requests, null, 2));
+
+    // Reduce  to group by IpAddress
+    var byIp = requests.reduce(function(accum, req) {
+      var key = req.ip.split('.').join('_');
+      if(!accum[key]) {
+        accum[key] = [];
+      }
+      accum[key].push(req);
+      return accum;
+    }, {});
+    for (var k in byIp) {
+      if (byIp.hasOwnProperty(k)) {
+        byIp[k].sort(function(a, b) {
+          return a.timestamp < b.timestamp ? -1 : a.timestamp > b.timestamp ? 1 : 0;
+        })
+      }
+    }
+    // Reduce to sessions
+    var sessions = [];
+    var pageViews = [];
+    for (var k in byIp) {
+      if (byIp.hasOwnProperty(k)) {
+        var parsedUserAgent;
+        var sessionId;
+        var previousTimestamp = 0;
+
+        byIp[k].forEach(function(req) {
+
+          // check for new session
+          if(req.timestamp > previousTimestamp + sessionSpan) {
+            parsedUserAgent = agentParser.parse(req.userAgent);
+            sessionId = newId();
+
+            sessions.push({
+              sessionId: sessionId,
+              timestamp: req.date,
+              UserAgent: req.userAgent,
+              browser: `${parsedUserAgent.family} ${parsedUserAgent.major}.${parsedUserAgent.minor}.${parsedUserAgent.patch}`,
+              operatingSystem: `${parsedUserAgent.os.family} ${parsedUserAgent.os.major}.${parsedUserAgent.os.minor}.${parsedUserAgent.os.patch}`,
+              ipAddress: req.ip
+            });
+          }
+
+          previousTimestamp = req.timestamp;
+          pageViews.push({
+            sessionId: sessionId,
+            url: req.url,
+            referrer: req.referrer,
+            timestamp: req.date
+          });
+        });
+      }
+    }
+    
+
+    fs.writeFile(__dirname + '/telemetry-hits.json', JSON.stringify({ sessions, pageViews }, null, 2));
     // distinctUrls.sort();
     // for(var i = 0; i < distinctUrls.length; i++) {
     //   console.log(' -- ', distinctUrls[i]);
@@ -35,7 +91,7 @@ function readNextLog(file, cb) {
   });
 
   lineReader.on('line', function(line) {
-    var req = buildRequest(file, line);
+    var req = buildRequest(file, line.toString());
 
     if(req.url !== null) {
       requests.push(req);
@@ -59,16 +115,16 @@ function buildRequest(file, line) {
     return { url: null };
   }
 
-
+  var dt = new Date(items[0] + ' ' + items[1]);
   req = Object.assign({}, req, {
     file: file,
-    date: items[0],
-    time: items[1],
-    ip: items[2],
+    date: dt,
+    timestamp: dt.getTime(),
+    ip: items[8],
     origUrl: items[4],
     url: null,
     userAgent: items[9],
-    status: items[11]
+    referrer: items[10]
   });
 
   var len = req.origUrl.length;
@@ -82,17 +138,13 @@ function buildRequest(file, line) {
     }
   }
 
-  var parsedUserAgent = agentParser.parse(req.userAgent);
-  req.browser = `${parsedUserAgent.family} ${parsedUserAgent.major}.${parsedUserAgent.minor}.${parsedUserAgent.patch}`;
-  req.operatingSystem = `${parsedUserAgent.os.family} ${parsedUserAgent.os.major}.${parsedUserAgent.os.minor}.${parsedUserAgent.os.patch}`;
-  req.sessionId = newId();
-
   switch (req.origUrl) {
-    case '/edge/partials/home.html':
-    case '/edge/partials/promises.html':
-    case '/saga/edge/partials/home.html':
-    case '/saga/partials/home.html':
-    case '/partials/home.html':
+    case '/':
+    // case '/edge/partials/home.html':
+    // case '/edge/partials/promises.html':
+    // case '/saga/edge/partials/home.html':
+    // case '/saga/partials/home.html':
+    // case '/partials/home.html':
       req.url = '/promises';
       break;
 
@@ -218,20 +270,3 @@ function newId() {
 // 12 sc-substatus
 // 13 sc-win32-status
 // 14 time-taken
-
-
-// process.stdin.resume();
-// process.stdin.setEncoding('utf8');
-// var util = require('util');
-
-// process.stdin.on('data', function (text) {
-//   console.log('received data:', util.inspect(text));
-//   if (text === 'q\r\n') {
-//     done();
-//   }
-// });
-
-// function done() {
-//   console.log('Now that process.stdin is paused, there is nothing more to do.');
-//   process.exit();
-// }
